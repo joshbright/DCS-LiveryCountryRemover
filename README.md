@@ -1,3 +1,9 @@
+<h1 align="center">NOTICE: A new application is being created that will be more robust and user friendly. You may find it in the repository called <a href="https://github.com/joshbright/DCS-LiveryExpander">DCS Livery Expander</a></h1>
+
+
+
+
+
 <h1 align="center"> DCS-LiveryCountryRemover</h1>
 <p align="center">PowerShell script for commenting out DCS Liveries' country variables.</p>
 
